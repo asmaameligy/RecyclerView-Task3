@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRecV</string>
+    <string name="month">JANUARY</string>
+
+    <string name="sewinter">Winter</string>
+    <string name="season">Season</string>
+
+</resources>
